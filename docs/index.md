@@ -1,6 +1,7 @@
 ![Image](images/image.png)
 
 # Organizers 
+# Organizers 
 
 <div style="display: flex; justify-content: center;">
     <div style="margin-right: 20px;">
