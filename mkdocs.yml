@@ -1,6 +1,8 @@
 site_name: Workshop
 theme:
-  name: landing  # Use Material theme
-# nav:
-#   - Home: index.md
-#   - About: about.md
+  name: material
+  # favicon: images/germany.ico
+  # logo: images/germany.ico
+  palette:
+    primary: deep purple
+    # accent: deep purple

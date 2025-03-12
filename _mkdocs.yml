@@ -1,0 +1,6 @@
+site_name: Workshop
+theme:
+  name: landing  # Use Material theme
+# nav:
+#   - Home: index.md
+#   - About: about.md
