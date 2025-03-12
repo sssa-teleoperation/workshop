@@ -1,8 +1,8 @@
 site_name: Workshop
 theme:
   name: material
-  # favicon: images/germany.ico
-  # logo: images/germany.ico
+  logo: images/marco_controzzi.png
   palette:
-    primary: deep purple
-    # accent: deep purple
+    primary: blue grey
+plugins: [ 
+  ]
