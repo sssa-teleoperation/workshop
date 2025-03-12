@@ -12,10 +12,10 @@
                 text-align: center; width: 80%;">
         2025 IROS Half-day Workshop 
     </div>
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); 
+    <div style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); 
                 color: white; font-size: 35px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
                 text-align: center; width: 80%;">
-        Shared Autonomy and the Sense of Agency: Balancing Control, Effort, and Experience in Human-Robot Interaction 
+        Shared Autonomy and Sense of Agency: Balancing Control, Effort, and Experience in Human-Robot Interaction 
     </div>
 </div>
 

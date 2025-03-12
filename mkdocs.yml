@@ -1,8 +1,8 @@
-site_name: Workshop
+site_name: IROS 2025 Workshop
 theme:
   name: material
-  logo: images/marco_controzzi.png
+  logo: images/logo.png
   palette:
-    primary: blue grey
+    primary: "black"
 plugins: [ 
   ]
