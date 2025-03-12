@@ -13,7 +13,7 @@
 </div>
 
 # Abstract
-Add your abstract text here. This section describes the main points and purpose of the workshop.
+Add your abstract text here. This section describes the main points and purpose of the workshop. ciao sashino bellino
 
 # Organizers 
 
