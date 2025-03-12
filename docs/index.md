@@ -104,6 +104,17 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     
 </div>
 
+<div style="display: flex; justify-content: center;">
+
+    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/Sara_Falcone.jpeg" width="200" height="200" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Sara Falcone</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Assistant Professor</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">Pace University</p>
+    </div>
+    
+</div>
+
 <h1 id="Schedule" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Schedule</h1> 
 
 <div style="display: flex; justify-content: center;">
@@ -129,7 +140,7 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">9:10 - 9:35</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Second talk + Q&A</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">?</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Sara Falcone</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">9:35 - 10:00</td>
