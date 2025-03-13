@@ -94,12 +94,11 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
         <p style="text-align: center; font-size: 14px; margin-top: 3px">University of Rikkyo</p>
     </div>
 
-    
     <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
-        <img src="images/Freek_Stulp.jpg" width="200" height="200" style="object-fit: cover;">
-       <p style="text-align: center; font-size: 18px;">Freek Stulp</p>
-        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Head of Department of Cognitive Robotics</p>
-        <p style="text-align: center; font-size: 14px; margin-top: 3px">German Aerospace Center (DLR)</p>
+        <img src="images/Henny_Admoni.jpg" width="200" height="200" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Henny Admoni</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Associate Professor</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">Carnegie Mellon University</p>
     </div>
     
 </div>
@@ -107,11 +106,19 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
 <div style="display: flex; justify-content: center;">
 
     <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
-        <img src="images/Sara_Falcone.jpeg" width="200" height="200" style="object-fit: cover;">
+        <img src="images/Sara_Falcone.jpeg" width="500" height="500" style="object-fit: cover;">
         <p style="text-align: center; font-size: 18px;">Sara Falcone</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Assistant Professor</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">Pace University</p>
     </div>
+
+    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/Freek_Stulp.jpg" width="200" height="200" style="object-fit: cover;">
+       <p style="text-align: center; font-size: 18px;">Freek Stulp</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Head of Department of Cognitive Robotics</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">German Aerospace Center (DLR)</p>
+    </div>
+
     
 </div>
 
@@ -145,7 +152,7 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">9:35 - 10:00</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Third talk + Q&A</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">?</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Henny Admoni</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">10:00 - 10:30</td>
