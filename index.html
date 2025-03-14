@@ -1,247 +1,450 @@
-<!DOCTYPE html>
-<html>
 
-<head>
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.7">
+    
+    
+      
+        <title>IROS 2025 Workshop</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.8608ea7d.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.06af60db.min.css">
+      
+      
 
-    <title>Home - Workshop</title>
-    <style>
-      /* load heading font */
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400');
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@400');
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700');
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@700');
 
-      /* load body font */
-      @import url('https://fonts.googleapis.com/css2?family=Noto Sans:wght@400');
-      @import url('https://fonts.googleapis.com/css2?family=Noto Sans:ital,wght@400');
-      @import url('https://fonts.googleapis.com/css2?family=Noto Sans:wght@700');
-      @import url('https://fonts.googleapis.com/css2?family=Noto Sans:ital,wght@700');
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
 
-      /* load mono font */
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains Mono:wght@400');
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains Mono:ital,wght@400');
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains Mono:wght@700');
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains Mono:ital,wght@700');
-
-      /* load emoji font */
-      @font-face {
-        font-family: "Noto Color Emoji";
-        src: url('assets/fonts/emoji/NotoColorEmoji-Regular.ttf');
-        font-weight: 400;
-      }
+    
+    
+    
+  </head>
   
-      :root {
-        /* colors */
-        --primary: #05b2dc;
-        --secondary: #ef9B0f;
-        --tertiary: #ef3e36;
-        /* shades */
-        --base: #ffffff;
-        --mantle: #f5f4f5;
-        --crust: #d4d2d5;
-        --overlay: #aBaBaE;
-        --footer: #000000cc;
-        /* text */
-        --text: #343233;
-        --hltext: #ffffff;
-        color: var(--text);
-        /* background-specific text */
-        --primary-text: var(--hltext);
-        --secondary-text: var(--hltext);
-        --tertiary-text: var(--hltext);
-        --base-text: var(--text);
-        --mantle-text: var(--text);
-        --crust-text: var(--text);
-        --overlay-text: var(--hltext);
-        --footer-text: var(--hltext);
-        /* fonts */
-        --heading: Poppins, Noto Color Emoji;
-        --body: Noto Sans, Noto Color Emoji;
-        --mono: JetBrains Mono, Noto Color Emoji;
-        font-family: var(--body); 
-      }
-      /* dark mode */
-      @media (prefers-color-scheme: dark) {
-        :root {
-          /* colors */
-          --primary: #05b2dc;
-          --secondary: #ef9B0f;
-          --tertiary: #ef3e36;
-          /* shades */
-          --base: #343233;
-          --mantle: #373536;
-          --crust: #3E3C3D;
-          --overlay: #646461;
-          --footer: #00000022;
-          /* text */
-          --text: #ffffff;
-          --hltext: #343233;
-          color: var(--text);
-          /* background-specific text */
-          --primary-text: var(--text);
-          --secondary-text: var(--text);
-          --tertiary-text: var(--text);
-          --base-text: var(--text);
-          --mantle-text: var(--text);
-          --crust-text: var(--text);
-          --overlay-text: var(--hltext);
-          --footer-text: var(--text);
-        }
-      }
-      /* style settings */
-      header#header {
-        grid-template-columns: 8rem auto 8rem;
-      }
-      body#background {
-        background: fixed center/cover var(--base);
-        
-        
-      }
-      #background-gradient {
-        background: linear-gradient(
-          45deg, 
-          color-mix(in srgb, var(--mantle) 80%, transparent), transparent, color-mix(in srgb, var(--crust) 20%, transparent)
-        );
-      }
-      content#content {
-        padding: 0 3rem;
-        background: color-mix(in srgb, var(--base) 0%, transparent);
-        border-left: none;
-        border-right: none;
-      }
-      #avatar {
-        
-        border-radius: 1rem;
-        
-      }
-      footer#footer a {
-        color: #ef9B0f;
-      }
-      footer#footer a:hover {
-        color: #ef3e36;
-      }
-    </style>
-    <link rel="icon" type="image/x-icon" href=assets/landing-favicon.png>
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/responsivity.css" rel="stylesheet">  
-    <script src="search/main.js"></script>
-    <script src="https://kit.fontawesome.com/b57355f8ac.js" crossorigin="anonymous"></script>
-    <script id="altmetric-embed-js" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/altmetric_badges-e7ba41a192efc3e63f5d48f8a1916dec4b1b49c01075bc7b39481408957b3b28.js"></script>
-    <link id="altmetric-embed-css" rel="stylesheet" type="text/css" href="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed-59614f5c46b49b21eeef3bb28c4fb38d1e7069e8d014752fcb66e84942556802.css">
-    <script>
-      function on_share() {
-        navigator.share({
-          url: document.URL,
-          title: "Home -Workshop",
-        });
-      }
-    </script>
-</head>
-
-<body id="background">
-  <div id="background-gradient"></div>
-  <content id="content">
   
-<a id="share-btn" onclick="on_share()">
-  <i class="fa fa-share-alt" alt="🔗"></i>
-</a>
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
 
   
-  <header id="header">
-    
-    
-     
-    
-    <img id="avatar" src="assets/landing-logo.png" />
-    
 
-    
-    
-    
-     
-    
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="IROS 2025 Workshop" class="md-header__button md-logo" aria-label="IROS 2025 Workshop" data-md-component="logo">
+      
+  <img src="images/logo.png" alt="logo">
 
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            IROS 2025 Workshop
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Home
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
     
     
     
-     
-    <h1 id="title"><a href=.>Workshop</a></h1>
-
     
     
-    
-     
-    <ul id="socials">
-        
-    </ul>
-
-    
-    
+  </nav>
+  
 </header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="IROS 2025 Workshop" class="md-nav__button md-logo" aria-label="IROS 2025 Workshop" data-md-component="logo">
+      
+  <img src="images/logo.png" alt="logo">
+
+    </a>
+    IROS 2025 Workshop
+  </label>
   
-  <main id="page">
-    <nav class="vertical" id="toc">
-
-<ul>
-
-<li class="nav-item">
-<a href="#organizers">Organizers</a>
+  <ul class="md-nav__list" data-md-scrollfix>
     
-    <ul>
+      
+      
+  
+  
     
-    </ul>
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Home
     
-</li>
+  </span>
+  
 
-</ul>
+      </a>
+      
+    </li>
+  
 
+    
+  </ul>
 </nav>
-    <p><img alt="Image" src="images/image.png" /></p>
-<h1 id="organizers">Organizers</h1>
-<div style="display: flex; justify-content: center;">
-    <div style="margin-right: 20px;">
-        <img src="images/dylan_losey.png" width="400" height="150">
-        <p style="text-align: center;">Dylan Losey</p>
-    </div>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
 
-    <div style="margin-right: 20px;">
-        <img src="images/marco_controzzi.png" width="400" height="150">
-        <p style="text-align: center;">Marco Controzzi</p>
-    </div>
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
 
-    <div>
-        <img src="images/ahmed_shehata.png" width="400" height="150">
-        <p style="text-align: center;">Ahmed Shehata</p>
+
+
+<div style="text-align: center; margin-bottom: 20px;">
+    <a href="#abstract" style="margin: 0 10px; text-decoration: none;">Abstract</a> |
+    <a href="#Organizers" style="margin: 0 10px; text-decoration: none;">Organizers</a> |
+    <a href="#Speakers" style="margin: 0 10px; text-decoration: none;">Speakers</a> |
+    <a href="#Schedule" style="margin: 0 10px; text-decoration: none;">Schedule</a>
+</div>
+
+<div style="position: relative; display: inline-block;">
+    <img src="images/opening.jpg" alt="Image" style="opacity: 0.9;">
+    <div style="position: absolute; top: 20%; left: 50%; transform: translate(-50%, -50%); 
+                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                text-align: center; width: 80%;">
+        2025 IROS Half-day Workshop 
+    </div>
+    <div style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); 
+                color: white; font-size: 35px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                text-align: center; width: 80%;">
+        Shared Autonomy and Sense of Agency: Balancing Control, Effort, and Experience in Human-Robot Interaction 
     </div>
 </div>
-    <nav id="page-controls">
-      <a href="#content" id="return-top">
-        <i class="fa fa-arrow-up" alt="⇧"></i> Return to top
-      </a>
-    </nav>
-  </main>
-  </content>
-  <footer id="footer">
+
+<h1 id="abstract" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Abstract</h1>
+<div style="text-align: justify; font-size: 18px;">
+Shared autonomy is revolutionizing Human-Robot interaction by seamlessly blending human intent with robot abilities.
+This paradigm holds the potential to enhance user performance and experience across various applications, from remote manipulation to assistive technologies, like prostheses.
+However, a critical challenge remains: <span style="font-weight: bold">how can we modulate robot autonomy to reduce user effort while preserving the user's sense of agency?</span>
+This workshop seeks to address this question by providing an overview about the link between shared autonomy and the sense of agency, starting from neuroscientific foundations and covering various application fields that share the common aspect of controlling external elements (prosthetics, teleoperation, etc.).<br>
+
+To address this, the workshop aims to explore three main questions.<br> 
+<ul style="margin-top: 5px; margin-left: 20px; margin-bottom: 5px; list-style-type: disc;">
+    <li>Which are the neuroscientific bases underlying the concepts of embodiment, ownership and sense of agency?</li>
+    <li>How can we determine the appropriate levels of autonomy for different tasks and users?</li>
+    <li>How can communication channels be effectively leveraged to enhance situational awareness, reduce cognitive load, and create a more natural control experience?</li>
+</ul>
+
+Designing safe, efficient, and user-friendly human-machine control systems requires a deep understanding of how individuals experience agency and how it impacts their behavior. During the past years, various workshops at the main conferences in robotics have addressed topics such as sensory feedback and shared autonomy in Human-Robot interaction. This workshop brings a novel perspective by exploring these aspects from the viewpoint of the sense of agency. We invite researchers to engage in discussions on these topics, fostering a collaborative environment to advance the state of shared autonomy. 
+</div>
+
+<h1 id="Organizers" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Organizers</h1>
+
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+    <div style="margin-right: 20px; width: 200px;">
+        <img src="images/Marco_Controzzi.jpeg" width="200" height="200" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Marco Controzzi</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Associate Professor</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">Sant'Anna School of Advanced Studies</p>
+    </div>
+
+    <div style="margin-right: 20px; width: 200px;">
+        <img src="images/Dylan_Losey.jpeg" width="200" height="200" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Dylan Losey</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Assistant Professor</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">Virginia Tech</p>
+    </div>
+</div>
+
+<div style="display: flex; justify-content: center;">
+
+    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/Ahmed_Shehata.jpeg" width="200" height="200" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Ahmed Shehata</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Adjunct Professor</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">University of Alberta</p>
+    </div>
+
+
+    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/Manuela_Uliano.jpeg" width="200" height="200" style="object-fit: cover;">
+       <p style="text-align: center; font-size: 18px;">Manuela Uliano</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">PhD Student</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">Sant'Anna School of Advanced Studies</p>
+    </div>
+
+</div>
+
+<div style="display: flex; justify-content: center;">
+
+    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/Silvia_Fattorini.jpeg" width="200" height="200" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Silvia Fattorini</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">PhD Student</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">Sant'Anna School of Advanced Studies</p>
+    </div>
+</div>
+
+<h1 id="Speakers" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Speakers</h1>
+
+<div style="display: flex; justify-content: center;">
+
+    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/Wen_Wen.jpg" width="200" height="200" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Wen Wen</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Associate Professor</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">University of Rikkyo</p>
+    </div>
+
+    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/Henny_Admoni.jpg" width="200" height="200" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Henny Admoni</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Associate Professor</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">Carnegie Mellon University</p>
+    </div>
+
+</div>
+
+<div style="display: flex; justify-content: center;">
+
+    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/Sara_Falcone.jpeg" width="500" height="500" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Sara Falcone</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Assistant Professor</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">Pace University</p>
+    </div>
+
+    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/Freek_Stulp.jpg" width="200" height="200" style="object-fit: cover;">
+       <p style="text-align: center; font-size: 18px;">Freek Stulp</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Head of Department of Cognitive Robotics</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">German Aerospace Center (DLR)</p>
+    </div>
+
+
+</div>
+
+<h1 id="Schedule" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Schedule</h1>
+
+<div style="display: flex; justify-content: center;">
+<table style="border-collapse: collapse; width: 100%; font-size: 18px;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left; font-size: 18px;">Time</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left; font-size: 18px;">Topic</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left; font-size: 18px;">Speaker</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">8:30 - 8:45</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Welcoming remarks</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">8:45 - 9:10</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">First talk + Q&A</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Wen Wen</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">9:10 - 9:35</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Second talk + Q&A</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Sara Falcone</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">9:35 - 10:00</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Third talk + Q&A</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Henny Admoni</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">10:00 - 10:30</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Coffee break and Poster session</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">10:30 - 10:55</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fourth talk + Q&A</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Freek Stulp</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">10:55 - 11:20</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fifth talk + Q&A</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">?</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">11:20 - 12:00</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Panel session</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">12:00 - 12:30</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Poster session</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">12:30 - 12:45</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Closing remarks and Poster awards</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
     
-
-<p>Compiled from markdown using <a href="https://www.mkdocs.org/">MkDocs</a>. Theme is <a href="https://teparsons.github.io/mkdocs-landing/">Landing</a> by <a href="https://toddparsons.co.uk">Todd Parsons</a>.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script src="search/main.js"></script>
-
-  </footer>
-</body>
-
+    
+    <script id="__config" type="application/json">{"base": ".", "features": [], "search": "assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+    
+  </body>
 </html>
