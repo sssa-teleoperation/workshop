@@ -162,7 +162,7 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">10:30 - 10:55</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fourth talk + Q&A</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Freek Stulp</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Freek Stulp---</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">10:55 - 11:20</td>
