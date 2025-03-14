@@ -120,7 +120,7 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
 
      <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
         <img src="images/dosen.png" width="500" height="500" style="object-fit: cover;">
-        <p style="text-align: center; font-size: 18px;">Strahinja Dosen (TBC)</p>
+        <p style="text-align: center; font-size: 18px;">Strahinja Dosen</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Professor</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">Aalborg University</p>
     </div>
