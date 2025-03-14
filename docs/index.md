@@ -52,28 +52,23 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Assistant Professor</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">Virginia Tech</p>
     </div>
-</div>
 
-<div style="display: flex; justify-content: center;">
-
-    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
-        <img src="images/Ahmed_Shehata.jpeg" width="200" height="200" style="object-fit: cover;">
+    <div style="margin-right: 20px; width: 200px;">
+        <img src="images/ahmed.jpeg" width="200" height="200" style="object-fit: cover;">
         <p style="text-align: center; font-size: 18px;">Ahmed Shehata</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Adjunct Professor</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">University of Alberta</p>
     </div>
+</div>
 
-    
+<div style="display: flex; justify-content: center;">
+
     <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
         <img src="images/Manuela_Uliano.jpeg" width="200" height="200" style="object-fit: cover;">
        <p style="text-align: center; font-size: 18px;">Manuela Uliano</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">PhD Student</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">Sant'Anna School of Advanced Studies</p>
     </div>
-    
-</div>
-
-<div style="display: flex; justify-content: center;">
 
     <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
         <img src="images/Silvia_Fattorini.jpeg" width="200" height="200" style="object-fit: cover;">
@@ -81,36 +76,40 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">PhD Student</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">Sant'Anna School of Advanced Studies</p>
     </div>
+    
 </div>
+
 
 <h1 id="Speakers" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Speakers</h1> 
 
 <div style="display: flex; justify-content: center;">
 
-    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+    <div style="margin-right: 20px; width: 200px;">
         <img src="images/Wen_Wen.jpg" width="200" height="200" style="object-fit: cover;">
         <p style="text-align: center; font-size: 18px;">Wen Wen</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Associate Professor</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">University of Rikkyo</p>
     </div>
 
-    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+    <div style="margin-right: 20px; width: 200px;">
         <img src="images/Henny_Admoni.jpg" width="200" height="200" style="object-fit: cover;">
         <p style="text-align: center; font-size: 18px;">Henny Admoni</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Associate Professor</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">Carnegie Mellon University</p>
+    </div>
+
+    <div style="margin-right: 20px; width: 200px;">
+        <img src="images/Sara_Falcone.jpeg" width="500" height="500" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Sara Falcone</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Assistant Professor</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">Pace University</p>
     </div>
     
 </div>
 
 <div style="display: flex; justify-content: center;">
 
-    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
-        <img src="images/Sara_Falcone.jpeg" width="500" height="500" style="object-fit: cover;">
-        <p style="text-align: center; font-size: 18px;">Sara Falcone</p>
-        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Assistant Professor</p>
-        <p style="text-align: center; font-size: 14px; margin-top: 3px">Pace University</p>
-    </div>
+    
 
     <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
         <img src="images/Freek_Stulp.jpg" width="200" height="200" style="object-fit: cover;">
@@ -119,12 +118,7 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
         <p style="text-align: center; font-size: 14px; margin-top: 3px">German Aerospace Center (DLR)</p>
     </div>
 
-    
-</div>
-
-<div style="display: flex; justify-content: center;">
-
-    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+     <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
         <img src="images/dosen.png" width="500" height="500" style="object-fit: cover;">
         <p style="text-align: center; font-size: 18px;">Strahinja Dosen (TBC)</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Professor</p>
@@ -137,8 +131,10 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Postdoctoral Fellow</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">University of Alberta</p>
     </div>
+
     
 </div>
+
 
 <h1 id="Schedule" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Schedule</h1> 
 
