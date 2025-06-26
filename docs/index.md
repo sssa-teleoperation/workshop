@@ -37,15 +37,16 @@
 <h1 id="abstract" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Abstract</h1>
 <div style="text-align: justify; font-size: 18px;">
 Shared autonomy is revolutionizing Human-Robot interaction by seamlessly blending human intent with robot abilities.
-This paradigm holds the potential to enhance user performance and experience across various applications, from telemanipulation to assistive technologies, like prostheses.
+This paradigm holds the potential to enhance user performance and experience across various applications, from remote manipulation to assistive technologies, like prostheses.
 However, a critical challenge remains: <span style="font-weight: bold">how can we modulate robot autonomy to reduce user effort while preserving the user's sense of agency?</span>
 This workshop seeks to address this question by providing an overview about the link between shared autonomy and the sense of agency, starting from neuroscientific foundations and covering various application fields that share the common aspect of controlling external elements (prosthetics, teleoperation, etc.).<br>
 
-To address this, the workshop aims to explore three main questions.<br> 
+To address this, the workshop aims to explore four key aspects.<br> 
 <ul style="margin-top: 5px; margin-left: 20px; margin-bottom: 5px; list-style-type: disc;">
-    <li>Which are the neuroscientific bases underlying the concepts of embodiment, ownership and sense of agency?</li>
-    <li>How can we determine the appropriate levels of autonomy for different tasks and users?</li>
-    <li>How can communication channels be effectively leveraged to enhance situational awareness, reduce cognitive load, and create a more natural control experience?</li>
+    <li> <span style="font-weight: bold"> Understanding sense of agency and embodiment</span>: Which are the neuroscientific bases underlying the concepts of sense of agency, embodiment, and ownership?</li>
+    <li> <span style="font-weight: bold"> Understanding shared autonomy</span>: What is shared autonomy?</li>
+    <li> <span style="font-weight: bold"> Insight into how shared autonomy affects agency</span>: How does shared autonomy between humans and robotic agents influence the sense of agency</li>
+    <li> <span style="font-weight: bold"> Promoting sense of agency through the sensory feedback</span>: How can communication channels be effectively leveraged to enhance situational awareness, reduce cognitive load, and create a more natural control experience?</li>
 </ul>
 
 Designing safe, efficient, and user-friendly human-machine control systems requires a deep understanding of how individuals experience agency and how it impacts their behavior. During the past years, various workshops at the main conferences in robotics have addressed topics such as sensory feedback and shared autonomy in Human-Robot interaction. This workshop brings a novel perspective by exploring these aspects from the viewpoint of the sense of agency. We invite researchers to engage in discussions on these topics, fostering a collaborative environment to advance the state of shared autonomy. 
@@ -192,7 +193,7 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">17:10 - 17:50</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Panel</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Panel session</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
