@@ -22,7 +22,7 @@
 <h1 id="abstract" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Abstract</h1>
 <div style="text-align: justify; font-size: 18px;">
 Shared autonomy is revolutionizing Human-Robot interaction by seamlessly blending human intent with robot abilities.
-This paradigm holds the potential to enhance user performance and experience across various applications, from remote manipulation to assistive technologies, like prostheses.
+This paradigm holds the potential to enhance user performance and experience across various applications, from telemanipulation to assistive technologies, like prostheses.
 However, a critical challenge remains: <span style="font-weight: bold">how can we modulate robot autonomy to reduce user effort while preserving the user's sense of agency?</span>
 This workshop seeks to address this question by providing an overview about the link between shared autonomy and the sense of agency, starting from neuroscientific foundations and covering various application fields that share the common aspect of controlling external elements (prosthetics, teleoperation, etc.).<br>
 
