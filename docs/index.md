@@ -12,10 +12,25 @@
                 text-align: center; width: 80%;">
         2025 IROS Half-day Workshop 
     </div>
+        <div style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); 
+                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                text-align: center; width: 80%;">
+    October 24<sup>th</sup>, 2025
+    </div>
+        <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); 
+                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                text-align: center; width: 80%;">
+    14:00-18:00 (China Standard Time)
+    </div>
     <div style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); 
                 color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
                 text-align: center; width: 80%;">
         Shared Autonomy and Sense of Agency 
+    </div>
+        <div style="position: absolute; top: 70%; left: 50%; transform: translate(-50%, -50%); 
+                color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                text-align: center; width: 80%;">
+        (SASA)
     </div>
 </div>
 
@@ -56,8 +71,8 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     <div style="margin-right: 20px; width: 200px;">
         <img src="images/ahmed.jpeg" width="200" height="200" style="object-fit: cover;">
         <p style="text-align: center; font-size: 18px;">Ahmed Shehata</p>
-        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Adjunct Professor</p>
-        <p style="text-align: center; font-size: 14px; margin-top: 3px">University of Alberta</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Canada Research Chair</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">University of New Brunswick​</p>
     </div>
 </div>
 
@@ -85,17 +100,10 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
 <div style="display: flex; justify-content: center;">
 
     <div style="margin-right: 20px; width: 200px;">
-        <img src="images/Wen_Wen.jpg" width="200" height="200" style="object-fit: cover;">
+        <img src="images/wen.JPG" width="200" height="200" style="object-fit: cover;">
         <p style="text-align: center; font-size: 18px;">Wen Wen</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Associate Professor</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">University of Rikkyo</p>
-    </div>
-
-    <div style="margin-right: 20px; width: 200px;">
-        <img src="images/Henny_Admoni.jpg" width="200" height="200" style="object-fit: cover;">
-        <p style="text-align: center; font-size: 18px;">Henny Admoni</p>
-        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Associate Professor</p>
-        <p style="text-align: center; font-size: 14px; margin-top: 3px">Carnegie Mellon University</p>
     </div>
 
     <div style="margin-right: 20px; width: 200px;">
@@ -104,32 +112,31 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Assistant Professor</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">Pace University</p>
     </div>
-    
-</div>
 
-<div style="display: flex; justify-content: center;">
-
-    
-
-    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
-        <img src="images/Freek_Stulp.jpg" width="200" height="200" style="object-fit: cover;">
+    <div style="margin-top: 1px; margin-right: 20px; width: 200px;">
+        <img src="images/Freek_Stulp.jpg" width="202" height="202" style="object-fit: cover;">
        <p style="text-align: center; font-size: 18px;">Freek Stulp</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Head of Department of Cognitive Robotics</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">German Aerospace Center (DLR)</p>
     </div>
 
+    
+</div>
+
+<div style="display: flex; justify-content: center;">
+    
      <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
-        <img src="images/dosen.png" width="500" height="500" style="object-fit: cover;">
+        <img src="images/Henny_Admoni.jpg" width="200" height="200" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Henny Admoni</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Associate Professor</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">Carnegie Mellon University</p>
+    </div>
+
+     <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/dosen.jpg" width="500" height="500" style="object-fit: cover;">
         <p style="text-align: center; font-size: 18px;">Strahinja Dosen</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Professor</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">Aalborg University</p>
-    </div>
-
-    <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
-        <img src="images/parker.jpg" width="500" height="500" style="object-fit: cover;">
-        <p style="text-align: center; font-size: 18px;">Adam SR Parker (TBC)</p>
-        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Postdoctoral Fellow</p>
-        <p style="text-align: center; font-size: 14px; margin-top: 3px">University of Alberta</p>
     </div>
 
     
@@ -149,52 +156,47 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">8:30 - 8:45</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:00 - 14:10</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Welcoming remarks</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">8:45 - 9:10</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:10 - 14:40</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">First talk + Q&A</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Wen Wen</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">9:10 - 9:35</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:40 - 15:10</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Second talk + Q&A</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Sara Falcone</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">9:35 - 10:00</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:10 - 15:40</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Third talk + Q&A</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Henny Admoni</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Frek Stulp</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">10:00 - 10:30</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:40 - 16:10</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Coffee break and Poster session</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">10:30 - 10:55</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">16:10 - 16:40</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fourth talk + Q&A</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Freek Stulp</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Henny Admoni</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">10:55 - 11:20</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">16:40 - 17:10</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fifth talk + Q&A</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Strahinja Dosen</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">11:20 - 11:45</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Sixth talk + Q&A</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Adam SR Parker</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">11:45 - 12:20</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">17:10 - 17:50</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Panel</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">12:20 - 12:30</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">17:50 - 18:00</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Closing remarks and Poster awards</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
