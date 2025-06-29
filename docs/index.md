@@ -8,29 +8,29 @@
 <div style="position: relative; display: inline-block;">
     <img src="images/opening.jpg" alt="Image" style="opacity: 0.9;">
     <div style="position: absolute; top: 20%; left: 50%; transform: translate(-50%, -50%); 
-                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
-                text-align: center; width: 80%;">
-        2025 IROS Half-day Workshop 
-    </div>
-        <div style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); 
-                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
-                text-align: center; width: 80%;">
-    October 24<sup>th</sup>, 2025
-    </div>
-        <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); 
-                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
-                text-align: center; width: 80%;">
-    14:00-18:00 (China Standard Time)
-    </div>
-    <div style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); 
                 color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
                 text-align: center; width: 80%;">
         Shared Autonomy and Sense of Agency 
     </div>
-        <div style="position: absolute; top: 70%; left: 50%; transform: translate(-50%, -50%); 
+        <div style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); 
                 color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
                 text-align: center; width: 80%;">
         (SASA)
+    </div>
+    <div style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); 
+                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                text-align: center; width: 80%;">
+        2025 IROS Half-day Workshop 
+    </div>
+        <div style="position: absolute; top: 70%; left: 50%; transform: translate(-50%, -50%); 
+                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                text-align: center; width: 80%;">
+    October 24<sup>th</sup>, 2025
+    </div>
+        <div style="position: absolute; top: 80%; left: 50%; transform: translate(-50%, -50%); 
+                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                text-align: center; width: 80%;">
+    14:00-18:00 (China Standard Time)
     </div>
 </div>
 
@@ -108,14 +108,14 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     </div>
 
     <div style="margin-right: 20px; width: 200px;">
-        <img src="images/Sara_Falcone.jpeg" width="500" height="500" style="object-fit: cover;">
+        <img src="images/Sara_Falcone.jpeg" width="200" height="200" style="object-fit: cover;">
         <p style="text-align: center; font-size: 18px;">Sara Falcone</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Assistant Professor</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">Pace University</p>
     </div>
 
     <div style="margin-top: 1px; margin-right: 20px; width: 200px;">
-        <img src="images/Freek_Stulp.jpg" width="202" height="202" style="object-fit: cover;">
+        <img src="images/FrekStulp.jpg" width="200" height="200" style="object-fit: cover;">
        <p style="text-align: center; font-size: 18px;">Freek Stulp</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Head of Department of Cognitive Robotics</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">German Aerospace Center (DLR)</p>
@@ -174,7 +174,7 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:10 - 15:40</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Third talk + Q&A</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Frek Stulp</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Freek Stulp</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:40 - 16:10</td>
@@ -205,3 +205,140 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
 </table>
 </div>
 
+<style>
+img {
+  border-radius: 8px !important;
+}
+.invited-talks-section {
+  font-size: 18px;
+  text-align: justify;
+  margin-bottom: 30px;
+}
+.invited-talk-card {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 32px;
+}
+.invited-talk-img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-right: 28px;
+  margin-top: 10px;
+  flex-shrink: 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+.invited-talk-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.invited-talk-name {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 15px 0 4px 0;
+}
+.invited-talk-role,
+.invited-talk-affiliation {
+  font-size: 15px;
+  margin: 2px 0;
+}
+.invited-talk-title-row {
+  display: flex;
+  align-items: baseline;
+  margin-top: 18px;
+}
+.invited-talk-title-label {
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-right: 10px;
+  white-space: nowrap;
+}
+.invited-talk-title {
+  font-size: 16px;
+  font-style: italic;
+}
+@media (max-width: 600px) {
+  .invited-talk-card { flex-direction: column; align-items: center; }
+  .invited-talk-img { margin-right: 0; margin-bottom: 10px; }
+  .invited-talk-info { align-items: center; }
+  .invited-talk-title-row { flex-direction: column; align-items: flex-start; }
+}
+</style>
+
+<h1 id="Invited talks" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Invited talks</h1>
+<div class="invited-talks-section">
+Five invited talks by leading experts in fields such as neuroscience and robotics will cover state-of-the-art topics related to the relationship between autonomy and agency in Human-Robot interaction. At the end of each talk, Q&A sessions will facilitate immediate discussion on the key points covered by the speakers. 
+
+<div class="invited-talk-card">
+  <img class="invited-talk-img" src="images/wen.JPG" alt="Wen Wen">
+  <div class="invited-talk-info">
+    <span class="invited-talk-name">Wen Wen</span>
+    <span class="invited-talk-role">Associate Professor</span>
+    <span class="invited-talk-affiliation">University of Rikkyo</span>
+    <div class="invited-talk-title-row">
+      <span class="invited-talk-title-label">Talk title:</span>
+      <span class="invited-talk-title">"The Sense of Agency in Human-Robot Interaction: Perspectives and Insights from Cognitive Psychology"</span>
+    </div>
+  </div>
+</div>
+
+<div class="invited-talk-card">
+  <img class="invited-talk-img" src="images/Sara_Falcone.jpeg" alt="Sara Falcone">
+  <div class="invited-talk-info">
+    <span class="invited-talk-name">Sara Falcone</span>
+    <span class="invited-talk-role">Assistant Professor</span>
+    <span class="invited-talk-affiliation">Pace University</span>
+    <div class="invited-talk-title-row">
+      <span class="invited-talk-title-label">Talk title:</span>
+      <span class="invited-talk-title">"A Multidisciplinary Investigation to Unravel the Complexity of the Sense of Embodiment in Teleoperation"</span>
+    </div>
+  </div>
+</div>
+
+<div class="invited-talk-card">
+  <img class="invited-talk-img" src="images/FrekStulp.jpg" alt="Freek Stulp">
+  <div class="invited-talk-info">
+    <span class="invited-talk-name">Freek Stulp</span>
+    <span class="invited-talk-role">Head of Department of Cognitive Robotics</span>
+    <span class="invited-talk-affiliation">German Aerospace Center (DLR)</span>
+    <div class="invited-talk-title-row">
+      <span class="invited-talk-title-label">Talk title:</span>
+      <span class="invited-talk-title">"Shared Control Templates for Assistive Robots"</span>
+    </div>
+  </div>
+</div>
+
+<div class="invited-talk-card">
+  <img class="invited-talk-img" src="images/Henny_Admoni.jpg" alt="Henny Admoni">
+  <div class="invited-talk-info">
+    <span class="invited-talk-name">Henny Admoni</span>
+    <span class="invited-talk-role">Associate Professor</span>
+    <span class="invited-talk-affiliation">Carnegie Mellon University</span>
+    <div class="invited-talk-title-row">
+      <span class="invited-talk-title-label">Talk title:</span>
+      <span class="invited-talk-title">"The Sense of Agency in Assistive Robotics Using Shared Autonomy"</span>
+    </div>
+  </div>
+</div>
+
+<div class="invited-talk-card">
+  <img class="invited-talk-img" src="images/dosen.jpg" alt="Strahinja Dosen">
+  <div class="invited-talk-info">
+    <span class="invited-talk-name">Strahinja Dosen</span>
+    <span class="invited-talk-role">Professor</span>
+    <span class="invited-talk-affiliation">Aalborg University</span>
+    <div class="invited-talk-title-row">
+      <span class="invited-talk-title-label">Talk title:</span>
+      <span class="invited-talk-title">"Shared Control and Sensory Feedback in Bionic Limbs"</span>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<h1 id="Panel session" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Panel session</h1> 
+<div style="text-align: justify; font-size: 18px;">
+<br>
