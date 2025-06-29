@@ -4,7 +4,9 @@
     <!-- <a href="#Speakers" style="margin: 0 10px; text-decoration: none;">Speakers</a> | -->
     <a href="#Schedule" style="margin: 0 10px; text-decoration: none;">Schedule</a> |
     <a href="#Invited speakers" style="margin: 0 10px; text-decoration: none;">Invited speakers</a> |
-    <a href="#Panel session" style="margin: 0 10px; text-decoration: none;">Panel session</a>
+    <a href="#Panel session" style="margin: 0 10px; text-decoration: none;">Panel session</a> |
+    <a href="#Question box" style="margin: 0 10px; text-decoration: none;">Question box</a> 
+    
 </div>
 
 <div style="position: relative; display: inline-block;">
@@ -361,4 +363,13 @@ After the five invited talks, a dedicated panel will encourage a broader and mor
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">PhD student</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">Carnegie Mellon University</p>
     </div>
+</div>
+
+<h1 id="Question box" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Question box</h1>
+<div style="text-align: justify; font-size: 18px; margin-bottom: 30px;">
+Discussion and exchange of ideas will be actively encouraged throughout the workshop, both through Q&A sessions after each talk and during the final panel discussion. All participants are warmly invited to take part in the conversation by asking questions.
+If you already have a question or a topic related to the workshop themes that you’d like to discuss, feel free to write it below!
+</div>
+<div style="display: flex; justify-content: center;">
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdFuECT8UYXJ25RjyzrE9EDheWaVw27iBONRh8LztRRk2583A/viewform?embedded=true&hl=en" width="640" height="461" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
