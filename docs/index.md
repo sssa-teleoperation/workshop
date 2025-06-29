@@ -1,8 +1,10 @@
 <div style="text-align: center; margin-bottom: 20px;">
     <a href="#abstract" style="margin: 0 10px; text-decoration: none;">Abstract</a> |
     <a href="#Organizers" style="margin: 0 10px; text-decoration: none;">Organizers</a> |
-    <a href="#Speakers" style="margin: 0 10px; text-decoration: none;">Speakers</a> |
-    <a href="#Schedule" style="margin: 0 10px; text-decoration: none;">Schedule</a>
+    <!-- <a href="#Speakers" style="margin: 0 10px; text-decoration: none;">Speakers</a> | -->
+    <a href="#Schedule" style="margin: 0 10px; text-decoration: none;">Schedule</a> |
+    <a href="#Invited speakers" style="margin: 0 10px; text-decoration: none;">Invited speakers</a> |
+    <a href="#Panel session" style="margin: 0 10px; text-decoration: none;">Panel session</a>
 </div>
 
 <div style="position: relative; display: inline-block;">
@@ -95,7 +97,7 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     
 </div>
 
-
+<!-- 
 <h1 id="Speakers" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Speakers</h1> 
 
 <div style="display: flex; justify-content: center;">
@@ -141,7 +143,7 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     </div>
 
     
-</div>
+</div> -->
 
 
 <h1 id="Schedule" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Schedule</h1> 
@@ -268,7 +270,7 @@ img {
 }
 </style>
 
-<h1 id="Invited talks" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Invited talks</h1>
+<h1 id="Invited speakers" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Invited speakers</h1>
 <div class="invited-talks-section">
 Five invited talks by leading experts in fields such as neuroscience and robotics will cover state-of-the-art topics related to the relationship between autonomy and agency in Human-Robot interaction. At the end of each talk, Q&A sessions will facilitate immediate discussion on the key points covered by the speakers. 
 
@@ -341,4 +343,22 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
 
 <h1 id="Panel session" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Panel session</h1> 
 <div style="text-align: justify; font-size: 18px;">
-<br>
+After the five invited talks, a dedicated panel will encourage a broader and more in-depth exchange of ideas, driven by audience questions and interactions. In addition to the five invited speakers, additional researchers will take part in the panel session, enriching the discussion with their diverse perspectives and expertise:
+</div>
+
+<div style="display: flex; justify-content: center;">
+    
+     <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/Annette_Hagengruber.jpg" width="200" height="200" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Annette Hagengruber</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Team leader</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">German Aerospace Center (DLR)</p>
+    </div>
+
+     <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
+        <img src="images/maggieCollier.JPG" width="500" height="500" style="object-fit: cover;">
+        <p style="text-align: center; font-size: 18px;">Maggie Collier</p>
+        <p style="text-align: center; font-size: 14px; margin-bottom: 3px">PhD student</p>
+        <p style="text-align: center; font-size: 14px; margin-top: 3px">Carnegie Mellon University</p>
+    </div>
+</div>
