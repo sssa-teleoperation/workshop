@@ -41,7 +41,6 @@ To recognize outstanding contributions and encourage high-quality presentations,
 
 The winners will be announced at the end of the workshop and highlighted on the workshop website and communication channels. <br>
 
-We look forward to your contributions and to celebrating innovative research in shared autonomy and the sense of agency! 
 <div>
 
 <h1 id="accepted abstracts" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Accepted abstracts</h1>
