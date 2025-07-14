@@ -290,7 +290,7 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
 </div>
 
 <div class="invited-talk-card">
-  <img class="invited-talk-img" src="images/Sara_Falcone.jpeg" alt="Sara Falcone">
+  <img class="invited-talk-img" src="images/Falcone_Portrait.jpg" alt="Sara Falcone">
   <div class="invited-talk-info">
     <span class="invited-talk-name">Sara Falcone</span>
     <span class="invited-talk-role">Assistant Professor</span>
