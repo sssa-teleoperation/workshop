@@ -178,7 +178,7 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:10 - 15:40</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Third talk + Q&A</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Freek Stulp</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Joao Silverio</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:40 - 16:10</td>
@@ -303,10 +303,10 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
 </div>
 
 <div class="invited-talk-card">
-  <img class="invited-talk-img" src="images/FrekStulp.jpg" alt="Freek Stulp">
+  <img class="invited-talk-img" src="images/JoaoSilverio.png" alt="Joao Silverio">
   <div class="invited-talk-info">
-    <span class="invited-talk-name">Freek Stulp</span>
-    <span class="invited-talk-role">Head of Department of Cognitive Robotics</span>
+    <span class="invited-talk-name">Joao Silverio</span>
+    <span class="invited-talk-role">Senior Researcher and Group Leader</span>
     <span class="invited-talk-affiliation">German Aerospace Center (DLR)</span>
     <div class="invited-talk-title-row">
       <span class="invited-talk-title-label">Talk title:</span>
