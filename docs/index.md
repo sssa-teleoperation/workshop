@@ -5,7 +5,8 @@
     <a href="#Invited speakers" style="margin: 0 10px; text-decoration: none;">Invited speakers</a> |
     <a href="#Panel session" style="margin: 0 10px; text-decoration: none;">Panel session</a> |
     <a href="#Question box" style="margin: 0 10px; text-decoration: none;">Question box</a> |
-    <a href="#Contact" style="margin: 0 10px; text-decoration: none;">Contact</a>     
+    <a href="#Sponsors" style="margin: 0 10px; text-decoration: none;">Sponsors</a> |  
+    <a href="#Contact" style="margin: 0 10px; text-decoration: none;">Contact</a>
 </div>
 
 <div style="position: relative; display: inline-block;">
@@ -325,10 +326,24 @@ If you already have a question or a topic related to the workshop themes that yo
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdFuECT8UYXJ25RjyzrE9EDheWaVw27iBONRh8LztRRk2583A/viewform?embedded=true&hl=en" width="640" height="461" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
+<h1 id="Sponsors" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Sponsors</h1>
+<div style="text-align: justify; font-size: 18px; margin-bottom: 30px;">
+The SASA Workshop @ IROS 2025 is supported by:<br>
+<ul style="margin-top: 5px; margin-left: 20px; margin-bottom: 5px; list-style-type: disc;">
+    <li>The IEEE-RAS Technical Committee on Human-Robot Interaction and Coordination.</li>
+    <li>The IEEE-RAS Technical Committee for Telerobotics.</li>
+</ul>
+</div>
+
+<div style="text-align: center; margin-bottom: 30px;">
+    <img src="images/Telerobotics_single.png" alt="IEEE-RAS Technical Committee for Telerobotics" style="max-width: 250px; height: auto;">
+</div>
+
 <h1 id="Contact" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Contact</h1>
 <div style="text-align: center; font-size: 18px; margin-bottom: 30px;">
 For any questions or further information, please feel free to contact us via email.<br>
 <div style="text-align: center; margin-top: 10px;">
   <a href="mailto:sasa.iros2025@gmail.com" style="font-size: 20px; font-weight: bold; color: #1a73e8;">sasa.iros2025@gmail.com</a>
 </div>
+
 </div>
