@@ -346,4 +346,21 @@ For any questions or further information, please feel free to contact us via ema
   <a href="mailto:sasa.iros2025@gmail.com" style="font-size: 20px; font-weight: bold; color: #1a73e8;">sasa.iros2025@gmail.com</a>
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 80px; margin-bottom: 30px; gap: 50px;">
+    <img src="images/sssa.png" alt="Sant'Anna School of Advanced Studies" style="height: 60px; width: auto;">
+    <img src="images/unb.svg" alt="University of New Brunswick" style="height: 60px; width: auto;">
+    <img src="images/virginiatech.png" alt="Virginia Tech" style="height: 40px; width: auto;">
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 30px; margin-bottom: 30px; gap: 40px;">
+    <img src="images/the.png" alt="THE" style="height: 50px; width: auto;">
+    <img src="images/unione_europea.png" alt="Unione Europea" style="height: 50px; width: auto;">
+    <img src="images/pnrr.png" alt="PNRR" style="height: 60px; width: auto;">
+    <img src="images/mur.png" alt="MUR" style="height: 60px; width: auto;">
+</div>
+
+<div style="text-align: center; font-size: 14px; margin-bottom: 30px;">
+We acknowledge the support of the European Union by the Next Generation  EU project ECS00000017 ‘Ecosistema dell’Innovazione’ Tuscany Health Ecosystem (THE, PNRR, Spoke 4: Spoke 9: Robotics and Automation for Health).
+</div>
+
 </div>
