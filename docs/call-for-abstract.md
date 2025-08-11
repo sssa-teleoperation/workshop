@@ -40,7 +40,7 @@ To recognize outstanding contributions and encourage high-quality presentations,
 </ul>
 
 The winners will be announced at the end of the workshop and highlighted on the workshop website and communication channels.<br><br>
-The poster award includes <strong>cash prizes</strong> and an exclusive <strong>50% discount</strong> on a motion capture system from the <strong>Perception Neuron</strong> product line.
+The poster award includes <strong>cash prizes</strong> and an exclusive <strong>50% discount</strong> on a motion capture system from the <strong>Perception Neuron</strong> product line.<br>
 The poster award is generously sponsored by:
 <ul style="margin-top: 5px; margin-left: 20px; margin-bottom: 5px; list-style-type: disc;">
     <li>The IEEE-RAS Technical Committee on Human-Robot Interaction and Coordination.</li>

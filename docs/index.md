@@ -238,6 +238,14 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
       <span class="invited-talk-title-label">Talk title:</span>
       <span class="invited-talk-title">"The Sense of Agency in Human-Robot Interaction: Perspectives and Insights from Cognitive Psychology"</span>
     </div>
+    <div style="margin-top: 10px;">
+      <strong>Speaker bio:</strong><br>
+      <span style="font-size: 16px;">Wen received her Ph.D. in Psychology from the University of Tokyo and has held research positions at institutions including Keio University, University College London, and the University of Tokyo. She is currently an Associate Professor of Psychology at Rikkyo University in Tokyo, Japan. Her research focuses on the sense of agency, body consciousness, and human-machine interaction, integrating experimental psychology with computational modeling approaches. She has published widely on how individuals perceive control over their actions and how this perception is influenced by sensory, cognitive, and contextual factors. In recent years, her work has expanded to investigate the computational modelling of body consciousness considering individual differences. She is also actively involved in interdisciplinary collaborations bridging cognitive science, robotics, and rehabilitation. </span>
+    </div>
+    <div style="margin-top: 10px;">
+      <strong>Talk abstract:</strong><br>
+      <span style="font-size: 16px;">As robots become increasingly integrated into our daily lives, understanding how humans perceive control and agency in interactions with these systems is crucial. This talk explores the sense of agency—our experience of controlling our actions and their outcomes—in the context of human-robot interaction (HRI). Drawing on insights from cognitive psychology, I will discuss how classical paradigms for measuring agency can be adapted to HRI settings, and what these adaptations reveal about human expectations, attribution of responsibility, and the boundaries between self and other in shared control scenarios. In addition, I will examine how individual differences—such as cognitive style, motor expertise, or prior experience with technology—shape agency judgments in HRI, leading to variability in how people adapt to and collaborate with robotic systems. Finally, I will consider the implications of agency research for the ethical and effective deployment of autonomous systems, and outline future directions for integrating psychological theory into HRI design. </span>
+    </div>
   </div>
 </div>
 
@@ -251,6 +259,14 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
       <span class="invited-talk-title-label">Talk title:</span>
       <span class="invited-talk-title">"A Multidisciplinary Investigation to Unravel the Complexity of the Sense of Embodiment in Teleoperation"</span>
     </div>
+    <!-- <div style="margin-top: 10px;">
+      <strong>Speaker bio:</strong><br>
+      <span style="font-size: 16px;">[Speaker bio for Sara Falcone goes here]</span>
+    </div>
+    <div style="margin-top: 10px;">
+      <strong>Talk Abstract:</strong><br>
+      <span style="font-size: 16px;">[Abstract for Sara Falcone's talk goes here]</span>
+    </div> -->
   </div>
 </div>
 
@@ -264,6 +280,14 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
       <span class="invited-talk-title-label">Talk title:</span>
       <span class="invited-talk-title">"Shared Control Templates for Assistive Robots"</span>
     </div>
+    <!-- <div style="margin-top: 10px;">
+      <strong>Speaker bio:</strong><br>
+      <span style="font-size: 16px;">[Speaker bio for Joao Silverio goes here]</span>
+    </div>
+    <div style="margin-top: 10px;">
+      <strong>Talk Abstract:</strong><br>
+      <span style="font-size: 16px;">[Abstract for Joao Silverio's talk goes here]</span>
+    </div> -->
   </div>
 </div>
 
@@ -277,6 +301,14 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
       <span class="invited-talk-title-label">Talk title:</span>
       <span class="invited-talk-title">"The Sense of Agency in Assistive Robotics Using Shared Autonomy"</span>
     </div>
+    <!-- <div style="margin-top: 10px;">
+      <strong>Speaker bio:</strong><br>
+      <span style="font-size: 16px;">[Speaker bio for Henny Admoni goes here]</span>
+    </div>
+    <div style="margin-top: 10px;">
+      <strong>Talk Abstract:</strong><br>
+      <span style="font-size: 16px;">[Abstract for Henny Admoni's talk goes here]</span>
+    </div> -->
   </div>
 </div>
 
@@ -290,6 +322,14 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
       <span class="invited-talk-title-label">Talk title:</span>
       <span class="invited-talk-title">"Shared Control and Sensory Feedback in Bionic Limbs"</span>
     </div>
+    <!-- <div style="margin-top: 10px;">
+      <strong>Speaker bio:</strong><br>
+      <span style="font-size: 16px;">[Speaker bio for Strahinja Dosen goes here]</span>
+    </div>
+    <div style="margin-top: 10px;">
+      <strong>Talk Abstract:</strong><br>
+      <span style="font-size: 16px;">[Abstract for Strahinja Dosen's talk goes here]</span>
+    </div> -->
   </div>
 </div>
 
