@@ -259,14 +259,14 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
       <span class="invited-talk-title-label">Talk title:</span>
       <span class="invited-talk-title">"A Multidisciplinary Investigation to Unravel the Complexity of the Sense of Embodiment in Teleoperation"</span>
     </div>
-    <!-- <div style="margin-top: 10px;">
+    <div style="margin-top: 10px;">
       <strong>Speaker bio:</strong><br>
-      <span style="font-size: 16px;">[Speaker bio for Sara Falcone goes here]</span>
+      <span style="font-size: 16px;">Sara Falcone is an Assistant Professor at the Seidenberg School of Computer Science and Information Systems, Pace University. Her research focuses on human-machine interaction, teleoperation, and embodied cognition, with an emphasis on how perceptual and control factors shape the sense of embodiment in robotic and virtual systems. Her work integrates experimental methodologies, full-body motion capture, and immersive environments to study how multimodal feedback and shared autonomy affect user performance and experience. She holds a Ph.D. in Electrical Engineering, Mathematics, and Computer Science from the University of Twente (in collaboration with TNO), and a Master’s in Cognitive Science with a specialization in Human-Machine Interaction from the Center of Mind/Brain Sciences, University of Trento. Her interdisciplinary work aims to inform the design of embodied systems that support motor learning, accessibility, and intuitive human-machine collaboration.</span>
     </div>
     <div style="margin-top: 10px;">
       <strong>Talk Abstract:</strong><br>
-      <span style="font-size: 16px;">[Abstract for Sara Falcone's talk goes here]</span>
-    </div> -->
+      <span style="font-size: 16px;">What makes us feel that we are the ones acting, especially when control happens at a distance, through a machine? This talk explores how humans experience the sense of embodiment, particularly agency and ownership, in remote and robotic systems. Drawing on experimental work in teleoperation and human-robot interaction, we will examine how design choices - such as the degree of autonomy, type of control interface, and availability of sensory feedback - can shape these experiences. In systems where control is shared between a human and an autonomous agent, a careful balance is required to maintain the user’s sense of agency. The talk will also highlight how sensory feedback channels - visual, proprioceptive, or haptic - can be used to support situational awareness, reduce cognitive load, and create a more natural and intuitive sense of control. This research contributes to the design of robotic systems that not only function effectively, but also feel meaningfully connected to the human operator.</span>
+    </div>
   </div>
 </div>
 
@@ -280,14 +280,14 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
       <span class="invited-talk-title-label">Talk title:</span>
       <span class="invited-talk-title">"Shared Control Templates for Assistive Robots"</span>
     </div>
-    <!-- <div style="margin-top: 10px;">
+    <div style="margin-top: 10px;">
       <strong>Speaker bio:</strong><br>
-      <span style="font-size: 16px;">[Speaker bio for Joao Silverio goes here]</span>
+      <span style="font-size: 16px;">João Silvério is a senior researcher and group leader at the German Aerospace Center (DLR) in Munich, where he leads the Interactive Skill Learning group since 2022. He received a PhD in Robotics from the Italian Institute of Technology (IIT), Genoa, in 2017. From 2017 to 2019, he was a postdoctoral researcher at IIT, and from 2019 to 2022, he held a postdoctoral position at the Idiap Research Institute in Martigny, Switzerland. His research focuses on machine learning for robotics, with particular interest in learning for control, imitation learning, and reinforcement learning. </span>
     </div>
     <div style="margin-top: 10px;">
       <strong>Talk Abstract:</strong><br>
-      <span style="font-size: 16px;">[Abstract for Joao Silverio's talk goes here]</span>
-    </div> -->
+      <span style="font-size: 16px;">A key challenge in assistive robotics is enabling users to quickly and effectively bootstrap new robot assistive behaviors -- something that can be facilitated by combining prior knowledge with data-driven methods. Such prior knowledge can take various forms depending on the task -- ranging from constraints (e.g., “hold a cup upright if it is not empty”) to object-centered behaviors (e.g., “provide more assistance near the task goal”). In this talk, I’ll present the concept of Shared Control Templates (SCTs) -- a structured framework for embedding such priors into robot behavior through virtual fixtures. SCTs enable the intuitive specification of task-phase-dependent constraints and mappings between input devices and robot motions. They also support learning these constraints from data and, crucially, allow non-expert users to define and modify assistance in personalized and adaptive ways. I will also show how SCTs played a key role in DLR’s Cybathlon-winning system in the 2024 Assistant Robot Race, highlighting their real-world impact on intuitive and flexible human-robot collaboration.</span>
+    </div>
   </div>
 </div>
 
@@ -301,11 +301,11 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
       <span class="invited-talk-title-label">Talk title:</span>
       <span class="invited-talk-title">"The Sense of Agency in Assistive Robotics Using Shared Autonomy"</span>
     </div>
-    <!-- <div style="margin-top: 10px;">
-      <strong>Speaker bio:</strong><br>
-      <span style="font-size: 16px;">[Speaker bio for Henny Admoni goes here]</span>
-    </div>
     <div style="margin-top: 10px;">
+      <strong>Speaker bio:</strong><br>
+      <span style="font-size: 16px;">Henny Admoni is an Associate Professor in the Robotics Institute at Carnegie Mellon University, where she leads the Human And Robot Partners (HARP) Lab. Dr. Admoni studies how to develop intelligent robots that can assist and collaborate with humans on complex tasks like preparing a meal. She is most interested in how natural human communication, like where someone is looking, can reveal underlying human intentions and can be used to improve human-robot interactions. Previously, Dr. Admoni was a postdoctoral fellow at CMU with Siddhartha Srinivasa in the Personal Robotics Lab. She completed her PhD in Computer Science at Yale University with Professor Brian Scassellati in the Social Robotics Lab. Her PhD dissertation was about modeling the complex dynamics of nonverbal behavior for socially assistive human-robot interaction. Dr. Admoni also holds an MS in Computer Science from Yale University, and a BA/MA joint degree in Computer Science from Wesleyan University.</span>
+    </div>
+    <!-- <div style="margin-top: 10px;">
       <strong>Talk Abstract:</strong><br>
       <span style="font-size: 16px;">[Abstract for Henny Admoni's talk goes here]</span>
     </div> -->
@@ -322,14 +322,14 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
       <span class="invited-talk-title-label">Talk title:</span>
       <span class="invited-talk-title">"Shared Control and Sensory Feedback in Bionic Limbs"</span>
     </div>
-    <!-- <div style="margin-top: 10px;">
+    <div style="margin-top: 10px;">
       <strong>Speaker bio:</strong><br>
-      <span style="font-size: 16px;">[Speaker bio for Strahinja Dosen goes here]</span>
+      <span style="font-size: 16px;">Strahinja Dosen received the Diploma of Engineering in Electrical Engineering and the M.Sc. degree in Biomedical Engineering in 2000 and 2004, respectively, from the Faculty of Technical Sciences, University of Novi Sad, Serbia, and the Ph.D. degree in Biomedical Engineering from the Center for Sensory-Motor Interaction, Aalborg University, Denmark, in 2009. From 2011 to 2017, he worked as a Research Scientist at the Institute for Neurorehabilitation Systems, University Medical Center Gottingen, Germany, and then as an Associate Professor at the Department of Health Science and Technology (HST), Aalborg University (AAU). Currently, he is a Full Professor in the same Department and leads a research group on Neurorehabilitation Systems. Prof. Dosen was a principal investigator for AAU and HST in several EU (Tactility, Wearplex, Sixthsense, and SimBionics) and nationally funded (Robin, Remap, Climb, NeuroMate) projects. He published more than 120 manuscripts in peer-reviewed journals, and his main research interest is the closed-loop control of assistive robotic systems.</span>
     </div>
     <div style="margin-top: 10px;">
       <strong>Talk Abstract:</strong><br>
-      <span style="font-size: 16px;">[Abstract for Strahinja Dosen's talk goes here]</span>
-    </div> -->
+      <span style="font-size: 16px;">The lecture will start by introducing the concept of shared control in bionic limbs, focusing on upper limb prosthetics. We will illustrate this concept by showing some prototypes and demonstrating how this approach can be used to improve performance while decreasing the cognitive and physical load of controlling a prosthesis, especially in the case of advanced systems with many degrees of freedom. However, despite these benefits, enhancing a bionic limb with automatic functions that might not be directly related to user intentions could “break” the sense of agency and ownership. We hypothesize that this risk can be mitigated by providing the user with carefully designed artificial sensory feedback. We will give some examples of how sensory feedback was employed in existing prototypes using different interfaces, from visual to haptic. The lecture will finish by discussing how feedback can be designed to maximize both performance and user experience.</span>
+    </div>
   </div>
 </div>
 
