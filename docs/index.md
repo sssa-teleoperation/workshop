@@ -34,7 +34,7 @@
         <div style="position: absolute; top: 80%; left: 50%; transform: translate(-50%, -50%); 
                 color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
                 text-align: center; width: 80%;">
-    14:00-18:00 (China Standard Time)
+    13:00-17:00 (China Standard Time)
     </div>
 </div>
 
@@ -113,47 +113,47 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:00 - 14:10</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">13:00 - 13:10</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Welcoming remarks</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:10 - 14:40</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">13:10 - 13:40</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">First talk + Q&A</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Wen Wen</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:40 - 15:10</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">13:40 - 14:10</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Second talk + Q&A</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Sara Falcone</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:10 - 15:40</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:10 - 14:40</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Third talk + Q&A</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Joao Silverio</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">João Silvério</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:40 - 16:10</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:40 - 15:10</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Coffee break and Poster session</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">16:10 - 16:40</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:10 - 15:40</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fourth talk + Q&A</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Henny Admoni</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">16:40 - 17:10</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:40 - 16:10</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fifth talk + Q&A</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Strahinja Dosen</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">17:10 - 17:50</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">16:10 - 16:50</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Panel session</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">17:50 - 18:00</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">16:50 - 17:00</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Closing remarks and Poster awards</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
@@ -273,7 +273,7 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
 <div class="invited-talk-card">
   <img class="invited-talk-img" src="images/JoaoSilverio.png" alt="Joao Silverio">
   <div class="invited-talk-info">
-    <span class="invited-talk-name">Joao Silverio</span>
+    <span class="invited-talk-name">João Silvério</span>
     <span class="invited-talk-role">Senior Researcher and Group Leader</span>
     <span class="invited-talk-affiliation">German Aerospace Center (DLR)</span>
     <div class="invited-talk-title-row">
@@ -305,10 +305,10 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
       <strong>Speaker bio:</strong><br>
       <span style="font-size: 16px;">Henny Admoni is an Associate Professor in the Robotics Institute at Carnegie Mellon University, where she leads the Human And Robot Partners (HARP) Lab. Dr. Admoni studies how to develop intelligent robots that can assist and collaborate with humans on complex tasks like preparing a meal. She is most interested in how natural human communication, like where someone is looking, can reveal underlying human intentions and can be used to improve human-robot interactions. Previously, Dr. Admoni was a postdoctoral fellow at CMU with Siddhartha Srinivasa in the Personal Robotics Lab. She completed her PhD in Computer Science at Yale University with Professor Brian Scassellati in the Social Robotics Lab. Her PhD dissertation was about modeling the complex dynamics of nonverbal behavior for socially assistive human-robot interaction. Dr. Admoni also holds an MS in Computer Science from Yale University, and a BA/MA joint degree in Computer Science from Wesleyan University.</span>
     </div>
-    <!-- <div style="margin-top: 10px;">
+    <div style="margin-top: 10px;">
       <strong>Talk Abstract:</strong><br>
-      <span style="font-size: 16px;">[Abstract for Henny Admoni's talk goes here]</span>
-    </div> -->
+      <span style="font-size: 16px;">Sense of agency is a factor that influences people’s preferences for robot assistance, and refers to the experience of control over one’s environment. However, in assistive robotics, many paradigms optimize measures like task success and cognitive load, rather than agency. Prior work has found that participants sometimes prefer paradigms, such as direct teleoperation, which may not perform well on these metrics but give more control to the user. This talk will present research on the paradigm of shared autonomy, in which the system combines control signals from the user and the automated control. Results from a study evaluating sense of agency show that higher robot autonomy improves task performance but reduces the user’s sense of agency, highlighting a potential trade-off between performance and agency. The talk will also discuss the relationship between sense of agency and optimality, introducing a proxy metric for a component of sense of agency that could enable systems to monitor and maintain agency in real time. </span>
+    </div>
   </div>
 </div>
 
