@@ -133,28 +133,33 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">João Silvério</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:40 - 15:10</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:40 - 15:05</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Coffee break and Poster session</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:10 - 15:40</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:05 - 15:35</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fourth talk + Q&A</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Henny Admoni</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:40 - 16:10</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:35 - 16:05</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fifth talk + Q&A</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Strahinja Dosen</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">16:10 - 16:50</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">16:05 - 16:45</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Panel session</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">16:45 - 16:50</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Closing remarks</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
+    </tr>
+    <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">16:50 - 17:00</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Closing remarks and Poster awards</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Sponsors presentation and Poster awards</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
   </tbody>
