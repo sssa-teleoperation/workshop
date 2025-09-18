@@ -56,5 +56,5 @@ The poster award is generously sponsored by:
 
 <h1 id="accepted abstracts" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Accepted abstracts</h1>
 <div style="text-align: justify; font-size: 18px;">
-Accepted abstracts will be published here by <span style="text-decoration: line-through;"> September 30<sup>th</sup>, 2025</span> <span style="color: red; margin-left: 10px;"> October 7<sup>th</sup>, 2025</span><br>
+Accepted abstracts will be published here by <span style="text-decoration: line-through;"> September 30<sup>th</sup>, 2025</span> <span style="color: red; margin-left: 2px;"> October 7<sup>th</sup>, 2025</span><br>
 </div>
