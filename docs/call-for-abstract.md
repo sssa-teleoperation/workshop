@@ -24,8 +24,8 @@ In addition, authors of accepted abstracts will be asked to register and submit 
 
 <h1 id="important dates" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Important dates</h1>
 <div style="text-align: justify; font-size: 18px;">
-<span style="font-weight: bold">Abstract submission deadline</span>: <span style="text-decoration: line-through;"> September 23<sup>rd</sup>, 2025</span> <span style="color: red;margin-left: 2px;"> September 30<sup>th</sup>, 2025, 23:59 CEST </span><br>
-<span style="font-weight: bold">Notification of acceptance</span>: <span style="text-decoration: line-through;"> September 30<sup>th</sup>, 2025</span> <span style="color: red; margin-left: 2px;"> October 7<sup>th</sup>, 2025 </span><br>
+<span style="font-weight: bold">Abstract submission deadline</span>: <span style="text-decoration: line-through;"> September 23<sup>rd</sup>, 2025</span> <span style="color: red;margin-left: 2px;"> October 7<sup>th</sup>, 2025, 23:59 CEST </span><br>
+<span style="font-weight: bold">Notification of acceptance</span>: <span style="text-decoration: line-through;"> September 30<sup>th</sup>, 2025</span> <span style="color: red; margin-left: 2px;"> October 10<sup>th</sup>, 2025 </span><br>
 <span style="font-weight: bold">Videos submission deadline</span>: <span style="text-decoration: line-through;"> October 6<sup>th</sup>, 2025</span> <span style="color: red; margin-left: 2px;"> October 13<sup>th</sup>, 2025, 23:59 CEST </span>
 </div>
 
