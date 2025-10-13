@@ -36,6 +36,11 @@
                 text-align: center; width: 80%;">
     13:00-17:00 (China Standard Time)
     </div>
+        <div style="position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%); 
+                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                text-align: center; width: 80%;">
+    Venue 404
+    </div>    
 </div>
 
 <h1 id="abstract" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Abstract</h1>
@@ -134,13 +139,13 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:40 - 15:05</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Coffee break and Poster session</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fourth talk + Q&A</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Henny Admoni</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:05 - 15:35</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fourth talk + Q&A</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Henny Admoni</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Coffee break and Poster session</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:35 - 16:05</td>
@@ -377,6 +382,7 @@ The SASA Workshop @ IROS 2025 is supported by:<br>
 <ul style="margin-top: 5px; margin-left: 20px; margin-bottom: 5px; list-style-type: disc;">
     <li>The IEEE-RAS Technical Committee on Human-Robot Interaction and Coordination.</li>
     <li>The IEEE-RAS Technical Committee for Telerobotics.</li>
+    <li>The IEEE-RAS Technical Committee on BioRobotics.</li>
     <li>Prensilia SRL.</li>
     <li>Perception Neuron (registered trademark of Noitom Ltd).</li>
 </ul>

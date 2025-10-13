@@ -33,17 +33,18 @@ In addition, authors of accepted abstracts will be asked to register and submit 
 <div style="text-align: justify; font-size: 18px;">
 To recognize outstanding contributions and encourage high-quality presentations, the workshop will include a Best Poster Award. All accepted posters will be evaluated based on the following criteria: 
 <ul style="margin-top: 5px; margin-left: 20px; margin-bottom: 5px; list-style-type: disc;">
-    <li> Scientific quality and originality of the work.</li>
-    <li> Clarity and effectiveness of the poster.</li>
-    <li> Ability to communicate key ideas in the 3-minute spotlight video.  </li>
-    <li> Engagement and discussion during the poster session.  </li>
+    <li> Methods.</li>
+    <li> Results.</li>
+    <li> Clarity.</li>
+    <li> Relevance with the workshop.  </li>
 </ul>
 
 The winners will be announced at the end of the workshop and highlighted on the workshop website and communication channels.<br><br>
-The poster award includes <strong>cash prizes</strong> and an exclusive <strong>50% discount</strong> on a motion capture system from the <strong>Perception Neuron</strong> product line.<br>
+The poster award includes <strong>cash prizes</strong>, <strong>reimbursements</strong> and an exclusive <strong>50% discount</strong> on a motion capture system from the <strong>Perception Neuron</strong> product line.<br>
 The poster award is generously sponsored by:
 <ul style="margin-top: 5px; margin-left: 20px; margin-bottom: 5px; list-style-type: disc;">
     <li>The IEEE-RAS Technical Committee on Human-Robot Interaction and Coordination.</li>
+    <li>The IEEE-RAS Technical Committee on BioRobotics.</li>
     <li>Prensilia SRL.</li>
     <li>Perception Neuron (registered trademark of Noitom Ltd).</li>
 </ul>
@@ -56,5 +57,14 @@ The poster award is generously sponsored by:
 
 <h1 id="accepted abstracts" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Accepted abstracts</h1>
 <div style="text-align: justify; font-size: 18px;">
-Accepted abstracts will be published here by <span style="text-decoration: line-through;"> September 30<sup>th</sup>, 2025</span> <span style="color: red; margin-left: 2px;"> October 10<sup>th</sup>, 2025</span><br>
+The following abstracts have been accepted for our workshop:
+<ul style="margin-top: 5px; margin-left: 20px; margin-bottom: 5px; list-style-type: disc;">
+    <li><i>"Upper-Limb Rehabilitation with a Dual-Mode Individualized Exoskeleton Robot: A Generative-Model-Based Solution"</i>; Yu Chen, Shu Miao, Jing Ye, Gong Chen, Jianghua Cheng, Ketao Du, and Xiang Li.</li>
+    <li><i>"A Probabilistic Shared Control Framework for Navigation"</i>; Pinhao Song, Yurui Du, Ophelie Saussus, Sofie De Schrijver, Irene Caprara, Peter Janssen, Renaud Detry.</li>
+    <li><i>"HannesImitation: Grasping with the Hannes Prosthetic Hand via Imitation Learning"</i>; Carlo Alessi, Federico Vasile, Federico Ceola, Giulia Pasquale, Nicolò Boccardo, and Lorenzo Natale.</li>
+    <li><i>"Assist-as-Attended: Gaze-Based Cognitive Human–Robot Collaboration in Robot-Assisted Pedicle Screw Placement"</i>; Chen Chen, Qikai Zou, Yuhang Song, Mingrui Yu, Senqiang Zhu, Shiji Song, and Xiang Li.</li>
+    <li><i>"Preserving Sense of Agency: User Preferences for Robot Autonomy and User Control across Household Tasks"</i>; Claire Yang, Heer Patel, Max Kleiman-Weiner, Maya Cakmak.</li>
+    <li><i>"Cognitive and Trust-Aware Shared Autonomy: Modulating Robot Assistance from Multimodal User State View in HRI"</i>; Juan José García Cárdenas and Adriana Tapus.</li>
+
+</ul>
 </div>
