@@ -389,6 +389,7 @@ The SASA Workshop @ IROS 2025 is supported by:<br>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-bottom: 30px;">
+  <img src="images/ras_logo.png" alt="IEEE-RAS Logo" style="max-width: 200px; height: auto;">
     <img src="images/Telerobotics_single.png" alt="IEEE-RAS Technical Committee for Telerobotics" style="max-width: 200px; height: auto;">
     <img src="images/Prensilia.png" alt="Prensilia SRL" style="max-width: 200px; height: auto;">
     <img src="images/pn_noitom.jpg" alt="Perception Neuron" style="max-width: 200px; height: auto;">
