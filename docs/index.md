@@ -12,34 +12,34 @@
 <div style="position: relative; display: inline-block;">
     <img src="images/opening.jpg" alt="Image" style="opacity: 0.9;">
     <div style="position: absolute; top: 20%; left: 50%; transform: translate(-50%, -50%); 
-                color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                color: white; font-size: 20px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
                 text-align: center; width: 80%;">
         Shared Autonomy and Sense of Agency 
     </div>
-        <div style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); 
-                color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+        <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); 
+                color: white; font-size: 20px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
                 text-align: center; width: 80%;">
         (SASA)
     </div>
     <div style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); 
-                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                color: white; font-size: 15px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
                 text-align: center; width: 80%;">
         2025 IROS Half-day Workshop 
     </div>
         <div style="position: absolute; top: 70%; left: 50%; transform: translate(-50%, -50%); 
-                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                color: white; font-size: 15px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
                 text-align: center; width: 80%;">
     October 24<sup>th</sup>, 2025
     </div>
         <div style="position: absolute; top: 80%; left: 50%; transform: translate(-50%, -50%); 
-                color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+                color: white; font-size: 15px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
                 text-align: center; width: 80%;">
-    13:00-17:00 (China Standard Time)
-    </div>
+    13:00-17:00, Room 404
+    <!-- </div>
         <div style="position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%); 
                 color: white; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
                 text-align: center; width: 80%;">
-    Venue 404
+    Room 404 -->
     </div>    
 </div>
 
@@ -138,18 +138,18 @@ Designing safe, efficient, and user-friendly human-machine control systems requi
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">João Silvério</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:40 - 15:05</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fourth talk + Q&A</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Henny Admoni</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:40 - 14:55</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Spotlight videos</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:05 - 15:35</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">14:55 - 15:35</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Coffee break and Poster session</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;"></td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">15:35 - 16:05</td>
-      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fifth talk + Q&A</td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Fourth talk + Q&A</td>
       <td style="border: 1px solid #ddd; padding: 8px; font-size: 18px;">Strahinja Dosen</td>
     </tr>
     <tr>
@@ -236,7 +236,7 @@ img {
 
 <h1 id="Invited speakers" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Invited speakers</h1>
 <div class="invited-talks-section">
-Five invited talks by leading experts in fields such as neuroscience and robotics will cover state-of-the-art topics related to the relationship between autonomy and agency in Human-Robot interaction. At the end of each talk, Q&A sessions will facilitate immediate discussion on the key points covered by the speakers. 
+Four invited talks by leading experts in fields such as neuroscience and robotics will cover state-of-the-art topics related to the relationship between autonomy and agency in Human-Robot interaction. At the end of each talk, Q&A sessions will facilitate immediate discussion on the key points covered by the speakers. 
 
 <div class="invited-talk-card">
   <img class="invited-talk-img" src="images/wen.JPG" alt="Wen Wen">
@@ -300,7 +300,7 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
     </div>
   </div>
 </div>
-
+<!-- 
 <div class="invited-talk-card">
   <img class="invited-talk-img" src="images/Henny_Admoni.jpg" alt="Henny Admoni">
   <div class="invited-talk-info">
@@ -320,7 +320,7 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
       <span style="font-size: 16px;">Sense of agency is a factor that influences people’s preferences for robot assistance, and refers to the experience of control over one’s environment. However, in assistive robotics, many paradigms optimize measures like task success and cognitive load, rather than agency. Prior work has found that participants sometimes prefer paradigms, such as direct teleoperation, which may not perform well on these metrics but give more control to the user. This talk will present research on the paradigm of shared autonomy, in which the system combines control signals from the user and the automated control. Results from a study evaluating sense of agency show that higher robot autonomy improves task performance but reduces the user’s sense of agency, highlighting a potential trade-off between performance and agency. The talk will also discuss the relationship between sense of agency and optimality, introducing a proxy metric for a component of sense of agency that could enable systems to monitor and maintain agency in real time. </span>
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="invited-talk-card">
   <img class="invited-talk-img" src="images/dosen.jpg" alt="Strahinja Dosen">
@@ -347,7 +347,7 @@ Five invited talks by leading experts in fields such as neuroscience and robotic
 
 <h1 id="Panel session" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Panel session</h1> 
 <div style="text-align: justify; font-size: 18px;">
-After the five invited talks, a dedicated panel will encourage a broader and more in-depth exchange of ideas, driven by audience questions and interactions. In addition to the five invited speakers, additional researchers will take part in the panel session, enriching the discussion with their diverse perspectives and expertise:
+After the four invited talks, a dedicated panel will encourage a broader and more in-depth exchange of ideas, driven by audience questions and interactions. In addition to the four invited speakers, an additional researcher will take part in the panel session, enriching the discussion with their diverse perspectives and expertise:
 </div>
 
 <div style="display: flex; justify-content: center;">
@@ -358,13 +358,13 @@ After the five invited talks, a dedicated panel will encourage a broader and mor
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">Team leader</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">German Aerospace Center (DLR)</p>
     </div>
-
+<!-- 
      <div style="margin-top: 20px; margin-right: 20px; width: 200px;">
         <img src="images/maggieCollier.JPG" width="500" height="500" style="object-fit: cover;">
         <p style="text-align: center; font-size: 18px;">Maggie Collier</p>
         <p style="text-align: center; font-size: 14px; margin-bottom: 3px">PhD student</p>
         <p style="text-align: center; font-size: 14px; margin-top: 3px">Carnegie Mellon University</p>
-    </div>
+    </div> -->
 </div>
 
 <h1 id="Question box" style="text-align: center; margin-top: 50px; margin-bottom: 20px; font-size: 42px; font-weight: bold">Question box</h1>
